@@ -1,3 +1,5 @@
+package com.example.project;
+
 public class StringProblems {
     // empty constructor
     public StringProblems() {
